@@ -1,0 +1,6 @@
+com\mycompany\contactdbapp\Contact.class
+com\mycompany\contactdbapp\DBConnection.class
+module-info.class
+com\mycompany\contactdbapp\ContactController.class
+com\mycompany\contactdbapp\App.class
+com\mycompany\contactdbapp\ContactDB.class
